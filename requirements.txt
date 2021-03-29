@@ -79,7 +79,7 @@ pycodestyle==2.0.0
 pycparser==2.18
 PyDispatcher==2.0.5
 pyflakes==1.2.3
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==17.3.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
